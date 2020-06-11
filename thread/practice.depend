@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1590566663 source:/home/ibrahim/Desktop/C-Projects/practice/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1590685116 source:/home/ibrahim/Desktop/C-Projects/practice/task1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1590526781 /home/ibrahim/Desktop/C-Projects/practice/trie.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1590351359 source:/home/ibrahim/Desktop/C-Projects/practice/task2.c
+
+1590710098 source:/home/ibrahim/Desktop/C-Projects/thread/task1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<pthread.h>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
